@@ -1,1 +1,1 @@
-1st line is a shebang, the second line shows current workind directory
+the first line is shebang, the second line is to list contents in dir
